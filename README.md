@@ -34,7 +34,7 @@ Unduh Script Kunci Termux Dibawah Ini
 
 [![Script Kunci Termux](https://img.shields.io/badge/ScriptKunciTermux-%2B-yellow.svg?style=flat)](https://sfile.mobi/6zxbuUUnDyz)
 
-<gif src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw62BjCS6syaHiXp-qACLq4cnN-U6cWOjwgYR0PjvttyXQH_J2y9OPiot6z2f66rHPQH6xAh9GVnS9cj1nUIpszj9Tt_3LDbadeXevvzi060X8zOsBFrka8oQB30atCDEbInKIm-4SV1D7LRrXCEr54GiAbRVkmNHa5jaqfavUnAyrL1ckk2dOMcmr2AI/s867/Screenrecorder-2024-06-08-21-51-14-285.gif">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw62BjCS6syaHiXp-qACLq4cnN-U6cWOjwgYR0PjvttyXQH_J2y9OPiot6z2f66rHPQH6xAh9GVnS9cj1nUIpszj9Tt_3LDbadeXevvzi060X8zOsBFrka8oQB30atCDEbInKIm-4SV1D7LRrXCEr54GiAbRVkmNHa5jaqfavUnAyrL1ckk2dOMcmr2AI/s867/Screenrecorder-2024-06-08-21-51-14-285.gif">
 
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqTP5lwuSvNnb2C4gy_4zVNy20KOLKYOVnbtzL1evEhPj8-bDruy49FtSZF3abCY9L6uHNmARk9oQG6p_J8rMA0zX21h9LKqDafXKtuGY3t6oWcGmsj0e048lL1AUkll1JUfXWVvbJiqRxyhhio6gtuQZXCNmPOOyh8G03CFbkaO_nPSEcSLWh0pqzzps/s1687/IMG_20240608_200914.jpg">
 
