@@ -31,23 +31,9 @@ Unduh Script Kunci Termux Dibawah Ini
 
 [![Script Kunci Termux](https://img.shields.io/badge/ScriptKunciTermux-%2B-yellow.svg?style=flat)](https://sfile.mobi/6zxbuUUnDyz)
 
-##### Cara Membuat Kunci Password Saat Login Ke Termux
+<h2 align="center">
 
-
-Orang Lain Tidak Bisa Membuka Kedalam Aplikasi Termux Nya
-Kecuali Mengetahui Password Nya
-
-##### command:
-
-$ useradd : Untuk Menambahkan user Baru
-
-$ passwd : Untuk Mengganti Pw Baru
-
-$ info : Untuk Menampilkan Data User
-
-$ me : Untuk Melihat Author/Pembuat Script ini
-
-##### Selamat Mencoba 
+Selamat Mencoba 
 
 </p>
 <div height='45' align="center">
