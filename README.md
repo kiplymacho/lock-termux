@@ -29,7 +29,7 @@ Unduh Script Kunci Termux Dibawah Ini
 
 👇👇
 
-[![Script Kunci Termux](https://img.shields.io/badge/ScriptKunciTermux-%2B-yellow.svg?style=flat)](https://sfile.mobi/aYRdA9FTxYC)
+[![Script Kunci Termux](https://img.shields.io/badge/ScriptKunciTermux-%2B-yellow.svg?style=flat)](https://sfile.mobi/6zxbuUUnDyz)
 
 ##### Cara Membuat Kunci Password Saat Login Ke Termux
 
