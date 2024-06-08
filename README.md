@@ -11,7 +11,10 @@
   
 [![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
 
-</p> 
+# Cara Membuat Kunci Password Saat Login Ke Termux
+
+Orang Lain Tidak Bisa Membuka Kedalam Aplikasi Termux Nya
+Kecuali Mengetahui Password Nya
 
 # Syarat & Ketentuan 
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
