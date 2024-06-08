@@ -34,9 +34,9 @@ Unduh Script Kunci Termux Dibawah Ini
 
 [![Script Kunci Termux](https://img.shields.io/badge/ScriptKunciTermux-%2B-yellow.svg?style=flat)](https://sfile.mobi/6zxbuUUnDyz)
 
-https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqTP5lwuSvNnb2C4gy_4zVNy20KOLKYOVnbtzL1evEhPj8-bDruy49FtSZF3abCY9L6uHNmARk9oQG6p_J8rMA0zX21h9LKqDafXKtuGY3t6oWcGmsj0e048lL1AUkll1JUfXWVvbJiqRxyhhio6gtuQZXCNmPOOyh8G03CFbkaO_nPSEcSLWh0pqzzps/s1687/IMG_20240608_200914.jpg
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqTP5lwuSvNnb2C4gy_4zVNy20KOLKYOVnbtzL1evEhPj8-bDruy49FtSZF3abCY9L6uHNmARk9oQG6p_J8rMA0zX21h9LKqDafXKtuGY3t6oWcGmsj0e048lL1AUkll1JUfXWVvbJiqRxyhhio6gtuQZXCNmPOOyh8G03CFbkaO_nPSEcSLWh0pqzzps/s1687/IMG_20240608_200914.jpg">
 
-https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil_qOBBwvHMRw7LXlEand0AkwaPBR12iYlVZBRemcZInz0esuOBUK8EBPtGuqbNErAt2v-T1p_i0Rj5wihSfkcnGEAQaaIx_6Q9bk4RKM0Ak5YjSMmpQsbgNThX_Nm52kkIARk3VeTSgs-pNczGwfGbWzRz0tntMP1YNsCqsH_dzAB5d0F02gOtJVUX38/s2249/IMG_20240608_200833.jpg
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil_qOBBwvHMRw7LXlEand0AkwaPBR12iYlVZBRemcZInz0esuOBUK8EBPtGuqbNErAt2v-T1p_i0Rj5wihSfkcnGEAQaaIx_6Q9bk4RKM0Ak5YjSMmpQsbgNThX_Nm52kkIARk3VeTSgs-pNczGwfGbWzRz0tntMP1YNsCqsH_dzAB5d0F02gOtJVUX38/s2249/IMG_20240608_200833.jpg">
 
 <h2 align="center">
 
